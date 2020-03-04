@@ -13,3 +13,7 @@ just like this
 ## Description
 
 How to contribute
+
+## And finally
+
+some more stuff, and a bit more 
